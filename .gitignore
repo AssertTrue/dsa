@@ -1,0 +1,13 @@
+*.sdf
+Debug
+Release
+*.suo
+*.vsp
+*.psess
+ipch
+Makefile
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+myyannl
+
